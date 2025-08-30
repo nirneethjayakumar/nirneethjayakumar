@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Nirneeth
 💻 **Aspiring DevOps Engineer | Curious about how tech works inside-out**  
 🌱 Currently learning **Docker • Kubernetes • AWS (Serverless) • CI/CD Pipelines • GenAI**  
 🚀 Building projects in **Serverless Architecture, Cloud Deployment, GenAI** 
