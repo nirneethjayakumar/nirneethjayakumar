@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Nirneeth
 💻 **Aspiring DevOps Engineer | Curious about how tech works inside-out**  
 🌱 Currently learning **Docker • Kubernetes • AWS (Serverless) • CI/CD Pipelines • GenAI**  
-🚀 Building projects in **Serverless Architecture, Cloud Deployment, GenAI** 
+🚀 Building projects in **Serverless Architecture, Cloud Deployment, CyberSecurity** 
 
 ### ⚡ Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
